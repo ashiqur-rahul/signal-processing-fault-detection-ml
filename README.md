@@ -78,7 +78,12 @@ signal-processing-fault-detection-ml/
 ![Feature Importance](outputs/figures/feature_importance.png)
 
 ---
+## 📈 Performance
 
+The model achieves very high accuracy on the dataset.
+
+Note: Since the dataset is synthetically generated with clearly separable signal patterns, near-perfect accuracy is expected. This project focuses on demonstrating the full signal processing and machine learning pipeline, including feature extraction and system-level analysis, rather than optimizing for real-world generalization.
+---
 ## ▶️ How to Run
 
 ### 1. Create environment
