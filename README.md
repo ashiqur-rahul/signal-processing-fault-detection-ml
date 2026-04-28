@@ -1,7 +1,9 @@
+## Results Preview
+This project demonstrates signal-based fault detection using machine learning on simulated sensor data.
+
 # Signal Processing Fault Detection with Machine Learning
 
-A Python-based project for detecting faults in sensor signals using signal processing and machine learning techniques.
-
+A signal processing and machine learning project for detecting faults in sensor data using time-domain and frequency-domain analysis.
 ---
 
 ## 🚀 Project Overview
@@ -124,6 +126,13 @@ pytest
 - Embedded Systems
 - Sensor Data Analysis
 
+## Real-World Applications
+
+- Ultrasonic inspection systems
+- Predictive maintenance
+- Sensor-based anomaly detection
+- Embedded signal monitoring
+- Industrial diagnostics
 ---
 
 ## 👤 Author
